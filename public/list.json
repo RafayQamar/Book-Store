@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },
+    {
+        "id": 2,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 3,
+        "name": "Sports book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 50,
+        "category": "Sports",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 4,
+        "name": "Food book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 200,
+        "category": "Food",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },
+    {
+        "id": 5,
+        "name": "Music book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 100,
+        "category": "Song",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 6,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 7,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 8,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 9,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },    {
+        "id": 10,
+        "name": "Comedy book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    },
+    {
+        "id": 11,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+
+    }
+]
